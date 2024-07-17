@@ -29,9 +29,20 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Projeto
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) repositório inicial TypeScript da estrutura.
+
+- Padrão MVC
+- Utilizando npm
+- Utilizando sqlite para o banco de dados em arquivo (leve)
+- Pluggins: Prisma, GitHub Copilot, SQLite Viewer e REST Client
+- Utilizando Migration - Comando: npx prisma migrate dev
+- Iniciando projeto: npm run start:dev
+- Comando de instruções: nest --help
+- Criação de modulos : nest g module usuario (g: de gerar)
+- Criação de serviço: acesse a pasta (cd nomepasta), comando: nest g service prisma --flat --no-spec (--flat: cria na mesma pasta), (--no-spec: para não criar arquivo de teste)
+
 
 ## Installation
 
