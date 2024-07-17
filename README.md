@@ -1,10 +1,3 @@
-
-![image](https://github.com/user-attachments/assets/1d6591fa-4c22-4b42-8d7b-775a713a95a0)
-
-![image](https://github.com/user-attachments/assets/a21c4687-1217-41f6-b48f-7b05c229dc43)
-
-
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -28,6 +21,10 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
+![image](https://github.com/user-attachments/assets/1d6591fa-4c22-4b42-8d7b-775a713a95a0)
+
+![image](https://github.com/user-attachments/assets/a21c4687-1217-41f6-b48f-7b05c229dc43)
 
 ## Projeto
 
@@ -75,11 +72,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## License
-
-Nest is [MIT licensed](LICENSE).
